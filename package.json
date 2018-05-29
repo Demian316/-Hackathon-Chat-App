@@ -1,0 +1,16 @@
+{
+  "name": "sentiment-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^4.11.0",
+    "react-native-elements": "^0.19.0",
+    "sentiment": "^4.2.0"
+  }
+}
